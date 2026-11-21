@@ -12,7 +12,7 @@
 | :---: | :--- | :---: | :---: | :--- |
 | **1** | **Ortus & educatio Fabri** | 1–3 | 21–23 | [cap_01.md](./output_capitulos/liber_prior/cap_01.md) *(Concluído)* |
 | **2** | **Parisios discendi studio concedit, & Ignatio se regendum tradit** | 3–7 | 23–27 | [cap_02.md](./output_capitulos/liber_prior/cap_02.md) *(Concluído)* |
-| **3** | **Statuit sequi Ignatium in toto vitae genere** | 7–11 | 27–31 | *Pendente* |
+| **3** | **Statuit sequi Ignatium in toto vitae genere** | 7–11 | 27–31 | [cap_03.md](./output_capitulos/liber_prior/cap_03.md) *(Em aberto: p. 7–10 transcritas; falta p. 11)* |
 | **4** | **Factus Sacerdos primos patres secundum Ignatium, plurimum iuvat** | 11–14 | 31–34 | *Pendente* |
 | **5** | **Peregrinationes Fabri Parisiis, Venetias inde Roma, ac Venetias rursum, & aliae** | 14–16 | 34–36 | *Pendente* |
 | **6** | **Mittitur Parmam cum Lainio, ubi Divinam rem optime gerunt** | 16–21 | 36–41 | [cap_06.md](./output_capitulos/liber_prior/cap_06.md) *(Em aberto: p. 17–20 transcritas; faltam p. 16 e p. 21)* |

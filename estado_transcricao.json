@@ -3,18 +3,26 @@
   "arquivo_pdf_original": "input_paginas/texto_original.pdf",
   "offset_livro_para_pdf": 20,
   "link_fonte": "https://play.google.com/books/reader?id=MoBhgp2q0xIC&pg=GBS.PA7&hl=pt",
-  "ultima_pagina_livro_processada": 20,
-  "ultima_pagina_pdf_processada": 40,
-  "paginas_livro_transcritas": [1, 2, 3, 4, 5, 6, 7, 17, 18, 19, 20, 269, 270, 271, 272, 273, 274, 275, 276],
+  "ultima_pagina_livro_processada": 10,
+  "ultima_pagina_pdf_processada": 30,
+  "paginas_livro_transcritas": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 17, 18, 19, 20, 269, 270, 271, 272, 273, 274, 275, 276],
   "capitulos_concluidos": [
     "liber_prior/cap_01.md",
     "liber_prior/cap_02.md",
     "liber_posterior/cap_26.md"
   ],
-  "capitulo_em_aberto": {
-    "arquivo": "liber_prior/cap_06.md",
-    "paginas_livro_total": "16-21",
-    "paginas_pdf_total": "36-41",
-    "paginas_livro_faltantes": [16, 21]
-  }
+  "capitulos_em_aberto": [
+    {
+      "arquivo": "liber_prior/cap_03.md",
+      "paginas_livro_total": "7-11",
+      "paginas_pdf_total": "27-31",
+      "paginas_livro_faltantes": [11]
+    },
+    {
+      "arquivo": "liber_prior/cap_06.md",
+      "paginas_livro_total": "16-21",
+      "paginas_pdf_total": "36-41",
+      "paginas_livro_faltantes": [16, 21]
+    }
+  ]
 }
