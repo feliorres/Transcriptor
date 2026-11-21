@@ -1,0 +1,11 @@
+{
+  "obra": "Vitae Petri Fabri (Niccolò Orlandini)",
+  "link_fonte": "https://play.google.com/books/reader?id=MoBhgp2q0xIC&pg=GBS.PA7&hl=pt",
+  "ultima_pagina_processada": "p20.png",
+  "capitulos_concluidos": [
+    "liber_prior/cap_01.md",
+    "liber_prior/cap_02.md",
+    "liber_posterior/cap_26.md"
+  ],
+  "capitulo_em_aberto": "liber_prior/cap_06.md"
+}
