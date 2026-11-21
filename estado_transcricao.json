@@ -1,11 +1,20 @@
 {
-  "obra": "Vitae Petri Fabri (Niccolò Orlandini)",
+  "obra": "Vitae Petri Fabri (Niccolò Orlandini, 1617)",
+  "arquivo_pdf_original": "input_paginas/texto_original.pdf",
+  "offset_livro_para_pdf": 20,
   "link_fonte": "https://play.google.com/books/reader?id=MoBhgp2q0xIC&pg=GBS.PA7&hl=pt",
-  "ultima_pagina_processada": "p20.png",
+  "ultima_pagina_livro_processada": 20,
+  "ultima_pagina_pdf_processada": 40,
+  "paginas_livro_transcritas": [1, 2, 3, 4, 5, 6, 7, 17, 18, 19, 20, 269, 270, 271, 272, 273, 274, 275, 276],
   "capitulos_concluidos": [
     "liber_prior/cap_01.md",
     "liber_prior/cap_02.md",
     "liber_posterior/cap_26.md"
   ],
-  "capitulo_em_aberto": "liber_prior/cap_06.md"
+  "capitulo_em_aberto": {
+    "arquivo": "liber_prior/cap_06.md",
+    "paginas_livro_total": "16-21",
+    "paginas_pdf_total": "36-41",
+    "paginas_livro_faltantes": [16, 21]
+  }
 }
